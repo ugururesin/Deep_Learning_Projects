@@ -1,7 +1,8 @@
 # TensorFlow Notebooks for Machine Learning
+Created by Ugur Uresin
 
 ## Contact
-* [Uğur Üresin, PhDc.](https://github.com/ugururesin) - [uresinugur35@gmail.com](mailto:uresin.ugur@gmail.com)
+* [Uğur Üresin, PhDc.](https://github.com/ugururesin) - [uresin.ugur@gmail.com](mailto:uresin.ugur@gmail.com)
 
 ## License
 This content is created by [Ugur Uresin](mailto:uresin.ugur@gmail.com) and shared to public for training purposes.  

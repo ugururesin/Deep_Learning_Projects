@@ -1,4 +1,5 @@
-# 'Ugur Uresin's GitHub Page - Deep Learning Keras Notes
+# Deep Learning Keras Notes
+Created by Ugur Uresin
 
 ## Contact
 * [Uğur Üresin, PhDc.](https://github.com/ugururesin) - [uresin.ugur@gmail.com](mailto:uresin.ugur@gmail.com)
