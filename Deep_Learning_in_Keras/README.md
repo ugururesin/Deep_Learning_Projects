@@ -6,22 +6,18 @@ Created by Ugur Uresin
 
 ## Table Of Contents
 
-* [01. Mathematical Foundations](https://github.com/ugururesin/Deep-Learning-Keras): Coming soon!
+* [01. Mathematical Foundations](https://github.com/ugururesin/Deep_Learning_Projects/blob/main/Deep_Learning_in_Keras/01_mathematical_foundations.ipynb)
 
-* [02. Neural Nets](https://github.com/ugururesin/Deep-Learning-Keras): Coming soon!
+* [02. Neural Nets - Image Classification](https://github.com/ugururesin/Deep_Learning_Projects/blob/main/Deep_Learning_in_Keras/02_imageClassification.ipynb)
 
-* [03. ML Workflow](https://github.com/ugururesin/Deep-Learning-Keras): Coming soon!
+* [03.1. Neural Nets - Binary Classification](https://github.com/ugururesin/Deep_Learning_Projects/blob/main/Deep_Learning_in_Keras/03_binaryClassification.ipynb)
 
-* [04. DL for Computer Vision](https://github.com/ugururesin/Deep-Learning-Keras): Coming soon!
+* [03.2. Neural Nets - Binary Classification with Iterations](https://github.com/ugururesin/Deep_Learning_Projects/blob/main/Deep_Learning_in_Keras/03_binaryClassification_Iterations.ipynb)
 
-* [05. DL for Text and Sequences](https://github.com/ugururesin/Deep-Learning-Keras) Coming soon!
+* [04. Neural Nets - Multi-Class Classification](https://github.com/ugururesin/Deep_Learning_Projects/blob/main/Deep_Learning_in_Keras/04_multiClassClassification.ipynb)
 
-* [06. Advanced DL Practices](https://github.com/ugururesin/Deep-Learning-Keras) Coming soon!
+* [05. Neural Networks - Regression](https://github.com/ugururesin/Deep_Learning_Projects/blob/main/Deep_Learning_in_Keras/05_regressionModel.ipynb)
 
-* [07. Generative DL](https://github.com/ugururesin/Deep-Learning-Keras) Coming soon!
-
-* [08. Epilogue](https://github.com/ugururesin/Deep-Learning-Keras) Coming soon!
- 
 
 ## License
 This content is created by [Ugur Uresin](mailto:uresin.ugur@gmail.com) and shared to public for training purposes.  
