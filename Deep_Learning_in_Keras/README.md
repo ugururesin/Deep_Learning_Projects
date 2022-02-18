@@ -18,6 +18,10 @@ Created by Ugur Uresin
 
 * [05. Neural Networks - Regression](https://github.com/ugururesin/Deep_Learning_Projects/blob/main/Deep_Learning_in_Keras/05_regressionModel.ipynb)
 
+* TBD
+
+* TBD
+
 
 ## License
 This content is created by [Ugur Uresin](mailto:uresin.ugur@gmail.com) and shared to public for training purposes.  
